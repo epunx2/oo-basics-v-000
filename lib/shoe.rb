@@ -8,10 +8,10 @@ class Shoe
   end
 
   def properties
-    @brand 
-    @color 
-    @size 
-    @material 
+    @brand
+    @color
+    @size
+    @material
     @condition
   end
 

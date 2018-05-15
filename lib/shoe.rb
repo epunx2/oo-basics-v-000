@@ -8,8 +8,11 @@ class Shoe
   end
 
   def properties
-    brand, color, size, material, condition
-
+    @brand 
+    @color 
+    @size 
+    @material 
+    @condition
   end
 
 end
